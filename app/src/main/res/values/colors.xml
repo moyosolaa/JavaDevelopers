@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbarTop">#92bff4</color>
+    <color name="username">#cccccc </color>
+    <color name="actionbar">#63a0e2</color>
+    <color name="generalAppColor">#f925a0</color>
+
+    <color name="primary_overlay">#d9d5c0f4</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="aluminum">#888888</color>
+</resources>
